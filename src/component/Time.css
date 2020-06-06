@@ -1,0 +1,14 @@
+.container{
+
+    display: flex;
+    flex: content;
+   
+    font-size: large;
+}
+.time {
+    font-size: large;
+    font-weight: bolder;
+    color:black;
+    background-color: antiquewhite;
+  
+}
